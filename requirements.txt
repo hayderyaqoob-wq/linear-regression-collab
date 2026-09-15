@@ -1,0 +1,3 @@
+# Alice: Keeping dependencies minimal and reproducible
+numpy
+scikit-learn
